@@ -10,5 +10,13 @@
 - [Docker for Windows](https://docs.docker.com/docker-for-windows/) or Mac
 - Java SDK
 - [apache-maven](http://maven.apache.org/download.cgi)
+- Azure CLI: Windows, Linux, and/or [MacOS](https://docs.microsoft.com/ko-kr/cli/azure/install-azure-cli-macos?view=azure-cli-latest)
 
 ## 과정
+
+- Create ACR
+
+```
+az acr create --resource-group [your resource group] --location southeastasia \
+ --name [unique name] --sku Basic
+```
