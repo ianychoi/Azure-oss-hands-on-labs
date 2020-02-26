@@ -7,11 +7,8 @@
 ### Recommended
 
 - [Visual Studio Code](https://code.visualstudio.com)
-
-### Windows
-- [Docker for Windows](https://docs.docker.com/docker-for-windows/)
-- JDK
-
-### MacOS
+- [Docker for Windows](https://docs.docker.com/docker-for-windows/) or Mac
+- Java SDK
+- [apache-maven](http://maven.apache.org/download.cgi)
 
 ## 과정
