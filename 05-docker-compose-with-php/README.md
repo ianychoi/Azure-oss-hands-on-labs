@@ -1,5 +1,7 @@
 # docker-compose & ACR 사용하기 (nginx & PHP 예제)
 
+![](_images/uploaded-iamges-on-acr.png)
+
 ## Explanation
 
 - 로컬에서 아래 내용을 참고하여 build 및 up까지 테스트를 합니다.
