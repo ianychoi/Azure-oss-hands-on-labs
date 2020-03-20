@@ -1,4 +1,4 @@
-# docker-compose & ACR 사용하기
+# docker-compose & ACR 사용하기 (nginx & PHP 예제)
 
 ## Explanation
 
@@ -9,6 +9,8 @@
   - php: php-fpm (테스트 버전: 7.4)
 
     - volumes에 사용하는 설정 파일 및 호스팅 폴더 등을 연결시켜 줍니다.
+
+![](_images/phpinfo-docker-compose.png)
 
 - [이전 핸즈온랩에 설명된 ACR](../04-Java-AKS/README.md)를 참고하여 ACR을 생성합니다 (로그인까지 해둘 것)
 
