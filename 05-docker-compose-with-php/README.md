@@ -1,6 +1,6 @@
 # docker-compose & ACR 사용하기 (nginx & PHP 예제)
 
-![](_images/uploaded-iamges-on-acr.png)
+![](_images/uploaded-images-on-acr.png)
 
 ## Explanation
 
